@@ -11,11 +11,7 @@ A beginner friendly Git & GitHub reference guide written after my Medium article
 
 ---
 
-While writing that article, I realized something:
-
-Most people are not bad at Git.
-
-We just learnt it through panic, broken branches, random StackOverflow answers, and terrifying terminal screenshots.
+While writing that article, I realized that it's better to have a cheatsheet that has all Git commands in one place and also give a glimpse on how to do the same using PyCharm(or any ide) UI:
 
 So I decided to create the thing I genuinely wish I had as a beginner:
 
@@ -56,7 +52,7 @@ Every workflow includes:
 - when to use them
 - PyCharm UI equivalents
 
-So you never need to blindly copy paste commands again.
+So you never need to blindly copy paste commands or rely on AI for simple commands again.
 
 ---
 
@@ -70,98 +66,13 @@ We’re entering an era where AI tools can:
 - operate terminals for us
 
 And honestly, that’s incredible.
-
 But I also realized something uncomfortable recently:
 
 The moment AI fails or hallucinates, we still need enough foundational understanding to step in ourselves.
 
 That’s why this repository exists.
 
-Not to make you memorize Git.
-
-But to make Git stop feeling scary.
-
----
-
-# 🚀 Some Commands You’ll Actually Use Daily
-
-## Check what’s happening
-
-```bash
-git status
-```
-
-See modified files, staged changes, current branch, and project state.
-
----
-
-## Save work into staging
-
-```bash
-git add .
-```
-
-Prepare changes for the next commit.
-
----
-
-## Create a checkpoint
-
-```bash
-git commit -m "fix login validation"
-```
-
-Save a snapshot of your work safely.
-
----
-
-## Upload work to GitHub
-
-```bash
-git push
-```
-
-Sync your local commits to the remote repository.
-
----
-
-## Download latest updates
-
-```bash
-git pull
-```
-
-Get the newest changes from teammates or GitHub.
-
----
-
-## Create a safe experimentation branch
-
-```bash
-git switch -c feature/auth
-```
-
-Build features safely without touching the main branch.
-
----
-
-## Temporarily save unfinished work
-
-```bash
-git stash
-```
-
-Useful when you suddenly need to switch tasks mid work.
-
----
-
-## View project history
-
-```bash
-git log --oneline
-```
-
-Quickly understand recent commits and changes.
+Not to make you memorize Git. But to make Git stop feeling scary.
 
 ---
 
@@ -183,14 +94,10 @@ Basically:
 
 # ❤️ Bookmark This
 
-You probably won’t memorize everything here.
-
-Neither do experienced developers honestly.
+You probably won’t memorize everything here. Neither do experienced developers honestly.
 
 But this repo is meant to become:
 > that one Git reference you keep returning to whenever your terminal starts acting suspicious.
-
-And that’s enough.
 
 ---
 
