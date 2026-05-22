@@ -7,7 +7,7 @@ A beginner friendly Git & GitHub reference guide written after my Medium article
 
 > The beginner friendly guide I wish someone had given me earlier.
 
-🔗 [Read the full article here](PASTE_MEDIUM_LINK_HERE)
+🔗 [Read the full article here](https://medium.com/the-tech-trek-by-tech-chick/git-isnt-hard-we-just-learnt-it-wrong-f52f04e90980?postPublishedType=repub)
 
 ---
 
